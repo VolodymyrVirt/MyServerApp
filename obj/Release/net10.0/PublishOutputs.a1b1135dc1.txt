@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\My folder\Net App\MyServerApp\publish\MyServerApp.exe
+C:\Users\User\Desktop\My folder\Net App\MyServerApp\publish\appsettings.Development.json
+C:\Users\User\Desktop\My folder\Net App\MyServerApp\publish\appsettings.json
+C:\Users\User\Desktop\My folder\Net App\MyServerApp\publish\MyServerApp.dll
+C:\Users\User\Desktop\My folder\Net App\MyServerApp\publish\MyServerApp.deps.json
+C:\Users\User\Desktop\My folder\Net App\MyServerApp\publish\MyServerApp.runtimeconfig.json
+C:\Users\User\Desktop\My folder\Net App\MyServerApp\publish\MyServerApp.pdb
